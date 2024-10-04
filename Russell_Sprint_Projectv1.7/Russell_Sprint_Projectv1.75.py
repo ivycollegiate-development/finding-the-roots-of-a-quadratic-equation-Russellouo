@@ -1,7 +1,7 @@
 import math
 
 def calculate_root(a, b, c):
-    discriminate = b**2 - 4*a*c
+    discriminate = (b**2 - 4*a*c) ** 0.5
 
 
 
